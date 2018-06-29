@@ -1,6 +1,6 @@
 {
   "name": "logzio-ts",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "Typescript wrapper for browser based logging to logzio",
   "keywords": [
     "elk",

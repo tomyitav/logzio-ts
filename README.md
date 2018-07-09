@@ -1,5 +1,8 @@
 # Logzio-Ts
 
+[![Build Status](https://travis-ci.org/tomyitav/logzio-ts.svg?branch=master)](https://travis-ci.org/tomyitav/logzio-ts)
+[![npm](https://img.shields.io/npm/v/logzio-ts.svg)](https://www.npmjs.com/package/logzio-ts)
+
 Integrate logzio logging from your browser, using Typescript. 
 
 ## Installation

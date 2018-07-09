@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tomyitav/logzio-ts.svg?branch=master)](https://travis-ci.org/tomyitav/logzio-ts)
 [![npm](https://img.shields.io/npm/v/logzio-ts.svg)](https://www.npmjs.com/package/logzio-ts)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 Integrate logzio logging from your browser, using Typescript. 
 
